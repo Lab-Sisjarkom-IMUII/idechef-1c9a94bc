@@ -1,0 +1,11 @@
+{
+  "name": "ide.chef",
+  "framework": "nextjs",
+  "language": "typescript",
+  "buildCommand": "vite build",
+  "startCommand": "npm run dev",
+  "domain": "idechef",
+  "email": "aandwim1@gmail.com",
+  "secretKey": "imuii_b93eb33ef8fa090c7aad6b786c5e50e736d28eda77fd206ee401ec6f3f39f67c",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/idechef-1c9a94bc.git"
+}
